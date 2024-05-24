@@ -22,10 +22,6 @@
   color: rgb(46, 21, 21);
 }
 
-.topnav a.right {
-  float: right;
-}
-
 /* Add a color to the active/current link */
 .topnav a.active {
   /* #04AA6D  green   #1c7c9e cyan    #bf9341 beige*/
